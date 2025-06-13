@@ -1,4 +1,4 @@
-25705603502400002
+25709115132734396
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -94563,6 +94563,13 @@ PCM12SMTR
 9
 9
 Snapeda
+POWERFLAT_5X6_STM
+
+STL110N4F7AG 
+0
+8
+8
+Snapeda
 QFN24_3X3X0P9_IVS
 
 ICM-20649 
@@ -94590,6 +94597,13 @@ RT9742GGJ5
 0
 5
 5
+Snapeda
+RTA0040B
+
+
+0
+41
+41
 Snapeda
 SMT_M10S-0_UBL
 

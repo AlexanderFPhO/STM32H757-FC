@@ -31267,6 +31267,50 @@
 		(layer "F.Paste")
 		(uuid "8fae47f7-f75c-4912-b5fb-2b16bd574bfd")
 	)
+	(gr_circle
+		(center 155 95)
+		(end 157 95)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "B.Paste")
+		(uuid "24280adc-6499-428a-9ab1-046e3d802e3e")
+	)
+	(gr_circle
+		(center 195 95)
+		(end 197 95)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "B.Paste")
+		(uuid "29e79c9c-1532-445e-a5e1-28521e9bd2e9")
+	)
+	(gr_circle
+		(center 155 55)
+		(end 157 55)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "B.Paste")
+		(uuid "53198387-47ab-4487-bc9a-ac1d79bd0914")
+	)
+	(gr_circle
+		(center 195 55)
+		(end 197 55)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "B.Paste")
+		(uuid "fd1fc8bd-b0ef-4025-a487-9f45134c486c")
+	)
 	(gr_arc
 		(start 195 50)
 		(mid 198.535534 51.464466)
